@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GitLab_P1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1be853d1219b0ba901d202c4192c3c8478269550")]
 [assembly: System.Reflection.AssemblyProductAttribute("GitLab_P1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GitLab_P1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
