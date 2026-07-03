@@ -19,6 +19,8 @@ if (!app.Environment.IsDevelopment())
 
 //adding last commits
 
+//Adding the final commit
+
 
 app.UseHttpsRedirection();
 app.UseRouting();
