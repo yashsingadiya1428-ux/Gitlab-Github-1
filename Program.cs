@@ -15,6 +15,10 @@ if (!app.Environment.IsDevelopment())
 
 // add static comment
 
+// 2nd trial - see it happenbs or not
+
+//adding last commits
+
 
 app.UseHttpsRedirection();
 app.UseRouting();
