@@ -13,6 +13,9 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
+// add static comment
+
+
 app.UseHttpsRedirection();
 app.UseRouting();
 
